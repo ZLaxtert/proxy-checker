@@ -1,5 +1,6 @@
 # Proxy Checker
-<h3>Validation proxy</h3>
+Validation proxy
+
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![BANDITCODING](https://img.shields.io/badge/Team-Banditcoding-green)
 ![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
